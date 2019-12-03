@@ -2,3 +2,4 @@
 haskellffp.cabal
 *~
 .idea/
+*.iml
