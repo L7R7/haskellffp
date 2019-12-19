@@ -29,6 +29,7 @@ library
   exposed-modules:
       Chapter02
       Chapter03
+      Chapter04
   other-modules:
       Paths_haskellffp
   hs-source-dirs:
